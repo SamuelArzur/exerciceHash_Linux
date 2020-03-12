@@ -1,4 +1,4 @@
-
+COMPONENTS_DIRNAMES=
 all: test
 
 test: install
